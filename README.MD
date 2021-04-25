@@ -1,6 +1,6 @@
 # Music Player
 
-A music player built with API and custom design, using Javascript, CSS, HTML.
+A Music Player built with API and custom design, using Javascript, CSS, HTML.
 
 ## Project Specifications
 
@@ -8,6 +8,8 @@ A music player built with API and custom design, using Javascript, CSS, HTML.
 + Custom UI
 + Play and Pause 
 + Switch between songs
++ The next song starts immediately as the first song ends.
++ switch song duration.
 
 ## Biblography
 
