@@ -13,7 +13,7 @@ A Music Player built with API and custom design, using Javascript, CSS, HTML.
 
 ## Project Website
 
-PoseMaster is hosted on Vercel. You can view the project website and interact with the application [here](https://music-player-flame-theta.vercel.app/)
+Music Player is hosted on Vercel. You can view the project and interact with the application [here](https://music-player-flame-theta.vercel.app/)
 
 ## Biblography
 
